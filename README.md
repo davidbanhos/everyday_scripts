@@ -10,4 +10,4 @@ It's a small collection and it's just starting, neverthenless please feel free o
 - Add Windows like scripts onto the _os/windows_ folder.
 - Linux scripts onto _os/linux_.
 - And so on, you're smart and you can understand this logic...
-- _doc_ folder, for general notes.
+- _docs_ folder, for general notes.
