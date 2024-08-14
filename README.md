@@ -11,3 +11,9 @@ It's a small collection and it's just starting, neverthenless please feel free o
 - Linux scripts onto _os/linux_.
 - And so on, you're smart and you can understand this logic...
 - _docs_ folder, for general notes.
+
+## Scripts' description
+
+### Windows
+
+- [runjava.bat](os/windows/runbash.bat) : Run bash commands (WSL) from Command/Powershell
