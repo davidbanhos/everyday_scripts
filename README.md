@@ -16,4 +16,4 @@ It's a small collection and it's just starting, neverthenless please feel free o
 
 ### Windows
 
-- [a relative link] (everyday_scripts/blob/main/os/windows/runbash.bat) : Run bash commands (WSL) from Command/Powershell
+- [a relative link] (os/windows/runbash.bat) : Run bash commands (WSL) from Command/Powershell
