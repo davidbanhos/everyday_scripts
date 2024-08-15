@@ -17,3 +17,7 @@ It's a small collection and it's just starting, neverthenless please feel free o
 ### Windows
 
 - [runjava.bat](os/windows/runbash.bat) : Run bash commands (WSL) from Command/Powershell
+
+## Notes
+
+- [Oracle on docker](https://gist.github.com/davidbanhos/edf141333e755e9acb7785ad82bab6a0)
