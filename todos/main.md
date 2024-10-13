@@ -10,3 +10,5 @@
 - [ ] review [optional best practices](https://blogs.oracle.com/javamagazine/post/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
 - [ ] Binary Oprators [nice sample](vhttps://mkyong.com/java8/java-8-binaryoperator-examples/)
 
+## Work & Setups
+- [Citrix Workspace on Linux](https://askubuntu.com/questions/1311786/citrix-workspace-no-audio-options-microphone-not-working)
