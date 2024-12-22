@@ -2,7 +2,8 @@
 
 - [x] review [devbox](https://github.com/jetify-com/devbox) and install it localy
   - Command : **devbox run -- nix-store --gc** (clean all packages)
-  - Learning resource: https://www.youtube.com/watch?v=WiFLtcBvGMU 
+  - Learning resource: https://www.youtube.com/watch?v=WiFLtcBvGMU
+- [ ] Latex updated CV
 - [ ] Eclipse language service [java on VI](https://github.com/eclipse-jdtls/eclipse.jdt.ls)
 - [ ] [Fleek tool](https://getfleek.dev/?utm_source=the+new+stack&utm_medium=referral&utm_content=inline-mention&utm_campaign=tns+platform)
 - [ ] Cross-compiling RasberyPi (https://www.raspberrypi.com/documentation/computers/linux_kernel.html)
