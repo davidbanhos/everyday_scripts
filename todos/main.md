@@ -6,6 +6,7 @@
 - [ ] Eclipse language service [java on VI](https://github.com/eclipse-jdtls/eclipse.jdt.ls)
 - [ ] [Fleek tool](https://getfleek.dev/?utm_source=the+new+stack&utm_medium=referral&utm_content=inline-mention&utm_campaign=tns+platform)
 - [ ] Cross-compiling RasberyPi (https://www.raspberrypi.com/documentation/computers/linux_kernel.html)
+- [ ] Apache Flink (https://flink.apache.org/what-is-flink/use-cases/)
 
 ## Java language practice
 - [ ] review [optional best practices](https://blogs.oracle.com/javamagazine/post/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
