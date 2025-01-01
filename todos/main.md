@@ -14,4 +14,7 @@
 - [ ] Binary Oprators [nice sample](vhttps://mkyong.com/java8/java-8-binaryoperator-examples/)
 
 ## Work & Setups
-- [Citrix Workspace on Linux](https://askubuntu.com/questions/1311786/citrix-workspace-no-audio-options-microphone-not-working)
+- [x] [Citrix Workspace on Linux](https://askubuntu.com/questions/1311786/citrix-workspace-no-audio-options-microphone-not-working)
+- [x] [ghostty terminal] (https://ghostty.org/docs/install/build)
+-- Manualy build using distrobox (Fedora), keeping local env clean
+-- Installed Zig language on the Fedora container, also keeping local env clean
