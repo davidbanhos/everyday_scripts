@@ -18,3 +18,4 @@
 - [x] [ghostty terminal] (https://ghostty.org/docs/install/build)
 -- Manualy build using distrobox (Fedora), keeping local env clean
 -- Installed Zig language on the Fedora container, also keeping local env clean
+- [x] [Proxmox Nixos container] (https://mtlynch.io/notes/nixos-proxmox/)
