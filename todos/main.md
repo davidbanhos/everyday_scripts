@@ -9,6 +9,7 @@
 - [ ] Cross-compiling RasberyPi (https://www.raspberrypi.com/documentation/computers/linux_kernel.html)
 - [ ] Flink (https://flink.apache.org/)
 - [ ] Zero-to-Nixos (https://zero-to-nix.com/)
+- [ ] LTC, nice review of the latest. (https://learntocloud.guide/) 
 
 ## Java language practice
 - [ ] review [optional best practices](https://blogs.oracle.com/javamagazine/post/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
