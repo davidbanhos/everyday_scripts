@@ -15,6 +15,9 @@
 - [ ] review [optional best practices](https://blogs.oracle.com/javamagazine/post/12-recipes-for-using-the-optional-class-as-its-meant-to-be-used)
 - [ ] Binary Oprators [nice sample](vhttps://mkyong.com/java8/java-8-binaryoperator-examples/)
 
+## Interesting tech
+- [ ] [Debezium](https://debezium.io/documentation/reference/3.2/transformations/vector-to-json.html)
+
 ## Work & Setups
 - [x] [Citrix Workspace on Linux](https://askubuntu.com/questions/1311786/citrix-workspace-no-audio-options-microphone-not-working)
 - [x] [ghostty terminal] (https://ghostty.org/docs/install/build)
